@@ -14,7 +14,7 @@ I am a Computer Science Engineering student exploring the fields of **Artificial
 
 ---
 
-### Tech Stack:
+### Current Tech Stack:
 `Python` • `NumPy` • `Pandas` • `Scikit-learn` • `HTML` • `CSS` • `JavaScript`
 *(learning Flask, TensorFlow, and backend architecture soon)*
 
@@ -26,3 +26,14 @@ I am a Computer Science Engineering student exploring the fields of **Artificial
 - Building ML mini-projects
 - Open-sourcing small but meaningful tools
 - Writing cleaner, smarter code everyday
+
+### Looking for Help With:
+- Best practices in training eficient ML models
+- Structuring scalable backend systems
+
+### Featured Repositories:
+- **Brew-Your-Mood**: A simple form to help you decide which coffee you want to have based on your mood when you can't decide for yourself.
+- *(More projects coming soon...)*
+
+### Connect with Me:
+[https://linkedin.com/charvijha](#) • [instagram.com/cig_dev] • [charvi.ace@gmail.com] • [charvijha@outlook.com]
