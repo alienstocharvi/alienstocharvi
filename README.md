@@ -36,4 +36,4 @@ I am a Computer Science Engineering student exploring the fields of **Artificial
 - *(More projects coming soon...)*
 
 ### Connect with Me:
-[https://linkedin.com/charvijha](#) • [instagram.com/cig_dev] • [charvi.ace@gmail.com] • [charvijha@outlook.com]
+[https://linkedin.com/charvijha](#) • [www.instagram.com/cig_dev/] • [charvi.ace@gmail.com] • [charvijha@outlook.com]
