@@ -1,6 +1,6 @@
 # 👾 Hey there, I'm Charvi.
 
-> "Machines learn, I teach them."
+> Machines learn, I teach them.
 
 I am a Computer Science Engineering student exploring the fields of **Artificial Intelligence**, **Machine Learning**, and everything that blurs the line between logic and intuition. Right now, I am building my foundation in **Python, Data Structures, and AI systems**, while experimenting with projects that connect **data, design, and decision-making**.
 
