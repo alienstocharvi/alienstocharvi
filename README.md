@@ -49,5 +49,3 @@ Focus areas: first-principles reasoning, from-scratch implementations, and conce
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alienstocharvi&icon=9&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
