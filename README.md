@@ -29,10 +29,10 @@ Flask • TensorFlow •Backend System Design
 - Planning backend structure for ML tools before implementation (data flow, model integration, and future extensibility)
 
 ## Featured Repositories:
-- **Brew-Your-Mood**
+- **Brew-Your-Mood:**
 A rule-based decision tool that converts user's mood inputs into coffee recommendations. Built to practice conditional logic, input handling, and translating subjective choices into structured decisions.
 Focus areas: decision logic, clean control flow, and user-facing simplicity.
-- **ml-under-the-hood**
+- **ml-under-the-hood:**
 A learning-first repository that breaks down machine learning fundamentals by focusing on intuition, mathematics, and minimal implementations. Built to understand how models actually work rather than relying on black-box libraries.
 Focus areas: first-principles reasoning, from-scratch implementations, and conceptual clarity.
 
