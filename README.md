@@ -2,41 +2,42 @@
 
 > Machines learn, I teach them.
 
-I am a Computer Science Engineering student exploring the fields of **Artificial Intelligence**, **Machine Learning**, and everything that blurs the line between logic and intuition. Right now, I am building my foundation in **Python, Data Structures, and AI systems**, while experimenting with projects that connect **data, design, and decision-making**.
+I am a Computer Science Engineering student working toward AI and ML systems development. 
+My current focus is strengthening Python and data structures while building small, decision-oriented ML projects that emphasize clarity, correctness, and reproducibility.
+I am particularly interested in why models fail and how design and logic choices affect real outcomes.
 
 ---
 
-### What I'm Into:
-- Machine Learning & AI-based automation
-- Data Science & backend logic
-- Building smart tools that actually make life easier
-- Understanding how humans and algorithms think
+## Current Tech Stack:
+
+### Actively Using:
+`Python` • `NumPy` • `Pandas` • `Scikit-learn` 
+• `HTML` • `CSS` • `JavaScript (Basic Front-End)` 
+### Learning Next:
+Flask • TensorFlow •Backend System Design
 
 ---
 
-### Current Tech Stack:
-`Python` • `NumPy` • `Pandas` • `Scikit-learn` • `HTML` • `CSS` • `JavaScript`
-*(learning Flask, TensorFlow, and backend architecture soon)*
+## Current Focus:
 
----
+- Strengthening core CS fundamentals with emphasis on data structures and problem-solving
+- Building and refining small ML systems
+- Open-sourcing narrowly scoped, well-documented tools
 
-### Current Focus:
+## Looking for Help With:
+- Choosing model complexity, features, and validation strategies for small ML projects without overfitting
+- Planning backend structure for ML tools before implementation (data flow, model integration, and future extensibility)
 
-- Strengthening core CS concepts
-- Building ML mini-projects
-- Open-sourcing small but meaningful tools
-- Writing cleaner, smarter code everyday
-
-### Looking for Help With:
-- Best practices in training eficient ML models
-- Structuring scalable backend systems
-
-### Featured Repositories:
-- **Brew-Your-Mood**: A simple form to help you decide which coffee you want to have based on your mood when you can't decide for yourself.
-- *(More projects coming soon...)*
+## Featured Repositories:
+- **Brew-Your-Mood**
+A rule-based decision tool that converts user's mood inputs into coffee recommendations. Built to practice conditional logic, input handling, and translating subjective choices into structured decisions.
+Focus areas: decision logic, clean control flow, and user-facing simplicity.
+- **ml-under-the-hood**
+A learning-first repository that breaks down machine learning fundamentals by focusing on intuition, mathematics, and minimal implementations. Built to understand how models actually work rather than relying on black-box libraries.
+Focus areas: first-principles reasoning, from-scratch implementations, and conceptual clarity.
 
 ### Connect with Me:
-[https://linkedin.com/charvijha](#) • [www.instagram.com/cig_dev/] • [charvi.ace@gmail.com] • [charvijha@outlook.com]
+[https://linkedin.com/charvijha](#) • [www.instagram.com/neon_incense/] • [charvi.ace@gmail.com]
 
 
 ## 🌐 Socials:
@@ -49,14 +50,6 @@ I am a Computer Science Engineering student exploring the fields of **Artificial
 ![](https://nirzak-streak-stats.vercel.app/?user=alienstocharvi&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alienstocharvi&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alienstocharvi&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alienstocharvi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alienstocharvi&icon=9&color=8)](https://visitcount.itsvg.in)
