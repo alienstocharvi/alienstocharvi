@@ -14,7 +14,7 @@ I am particularly interested in why models fail and how design and logic choices
 `Python` • `NumPy` • `Pandas` • `Scikit-learn` 
 • `HTML` • `CSS` • `JavaScript (Basic Front-End)` 
 ### Learning Next:
-Flask • TensorFlow •Backend System Design
+`Flask` • `TensorFlow` • `Backend System Design`
 
 ---
 
