@@ -32,21 +32,8 @@ I am particularly interested in why models fail and how design and logic choices
 
 ---
 
-## Featured Repositories:
-- **Brew-Your-Mood:**
-A rule-based decision tool that converts user's mood inputs into coffee recommendations. Built to practice conditional logic, input handling, and translating subjective choices into structured decisions.
-Focus areas: decision logic, clean control flow, and user-facing simplicity.
-- **ml-under-the-hood:**
-A learning-first repository that breaks down machine learning fundamentals by focusing on intuition, mathematics, and minimal implementations. Built to understand how models actually work rather than relying on black-box libraries.
-Focus areas: first-principles reasoning, from-scratch implementations, and conceptual clarity.
-- **python-for-ml-notes:**
-A learning-first repository focused on Python concepts that are foundational for machine learning. Emphasizes understanding how the language behaves in ML-style code rather than using models or frameworks.
-Focus areas: core Python semantics, data handling patterns, execution flow, and reasoning-first examples.
-
----
-
 ## Connect with Me:
-[https://linkedin.com/charvijha](#) • [www.instagram.com/neon_incense/] • [charvi.ace@gmail.com]
+[https://linkedin.com/charvijha](#) • [charvi.ace@gmail.com]
 
 ---
 
